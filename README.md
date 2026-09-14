@@ -27,7 +27,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
 
-**Data / Infra**
+**Data**
 ![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
