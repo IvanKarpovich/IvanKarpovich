@@ -43,9 +43,9 @@
 
 ### 📌 Избранные проекты
 
-- **[Предсказание зарплат в Data Science](#https://github.com/IvanKarpovich/salary_prediction_ml)** — пайплайн сравнения моделей (LinReg, KNN, Random Forest, CatBoost) на данных Glassdoor; оценка по R², MAPE и времени инференса.
+- **[Предсказание зарплат в Data Science](https://github.com/IvanKarpovich/salary_prediction_ml)** — пайплайн сравнения моделей (LinReg, KNN, Random Forest, CatBoost) на данных Glassdoor; оценка по R², MAPE и времени инференса.
 - **[Прогнозирование возрастных групп абонентов](#)** — классификация на 45 тыс. абонентов (62 признака); CatBoost дал macro Accuracy 0.74 против 0.60 у Random Forest.
-- **[Yambda RecSys - рекомендательная система на датасете Yandex Music](#https://github.com/IvanKarpovich/yambda_recsys)** — взял Yambda - датасет Yandex Music (4.79 млрд взаимодействий, 1 млн
+- **[Yambda RecSys - рекомендательная система на датасете Yandex Music](https://github.com/IvanKarpovich/yambda_recsys)** — взял Yambda - датасет Yandex Music (4.79 млрд взаимодействий, 1 млн
 пользователей, 9.4 млн треков), сделал препроцессинг, реализовал три
 модели (Popularity, Implicit ALS, Content-KNN), реализовал холодный старт
 для треков у которых не было истории взаимодействия.
